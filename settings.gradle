@@ -1,0 +1,5 @@
+include ':mylibrary'
+include ':app'
+rootProject.name = "FaceDemo"
+
+println('初始化阶段开始...')
